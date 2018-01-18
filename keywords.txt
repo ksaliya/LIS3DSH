@@ -1,0 +1,7 @@
+LIS3DSH	KEYWORD1
+startup	KEYWORD2
+readRegister	KEYWORD2
+writeRegister	KEYWORD2
+readAccelX	KEYWORD2
+readAccelY	KEYWORD2
+readAccelZ	KEYWORD2
